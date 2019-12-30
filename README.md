@@ -7,6 +7,8 @@ The function is a variadic function that is able to take in multiple arguments.
 
 Below is a list of the supported flags, specifiers and length. The function also supports formatting of width and precision.
 
+## Supported specifiers and format
+
 % [flags] [width] [.precision] [length] specifier
 
 %c [ - ] [width] [n/a] [n/a] c
